@@ -4,7 +4,9 @@
 
 <div style="display: inline_block"><br>
 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+          
           
 </div
           

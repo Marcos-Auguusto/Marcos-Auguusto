@@ -1,7 +1,5 @@
-<div> 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</div>
-<br>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Auguusto&show_icons=true&theme=react)
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>

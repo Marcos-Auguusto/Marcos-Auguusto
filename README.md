@@ -1,6 +1,5 @@
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Auguusto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&layout=compact&langs_count=16&theme=react"/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 <br>
 

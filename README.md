@@ -1,7 +1,7 @@
 
 <div>
 <img align="top" widht="47%" src="https://github-readme-stats.vercel.app/api?username=Marcos-Auguusto&show_icons=true&theme=react" />
-<img align="top" widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&layout=compact&theme=react"/>
+<img align="top" widht="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&layout=compact&theme=react"/>
 
 </div>                                          
 

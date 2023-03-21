@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&hide_progress=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img height="40" widht="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
           
 
  

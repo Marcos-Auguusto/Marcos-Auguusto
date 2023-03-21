@@ -5,8 +5,9 @@
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
+<body>
 <i class="devicon-css3-plain-wordmark"></i>
-   
+</body>   
   
  
 ![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)

@@ -3,7 +3,7 @@
 
 
 <div  align="center"> 
-   <i class="devicon-css3-plain-wordmark"></i>
+   <i class="devicon-css3-plain-wordmark" style="font-size:24px;">></i>
    
    </div>
  

@@ -1,4 +1,4 @@
-<div align="center">
+
 <!--stats-->
 <picture>
 <source
@@ -16,7 +16,7 @@
 />
 <img align="top" src="https://github.com/anuraghazra/github-readme-stats" width="250"/>
 </picture>
-</div>
+
 
 <div align="center">
 <h6>Caso apareça tudo bangunçado pressionar F5!😅</h6>

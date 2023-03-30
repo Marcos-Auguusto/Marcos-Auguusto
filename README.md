@@ -1,3 +1,4 @@
+<div align="center">
 <!--stats-->
 <picture>
 <source
@@ -15,9 +16,17 @@
 />
 <img align="top" src="https://github.com/anuraghazra/github-readme-stats" width="354"/>
 </picture>
+</div>
 
+<div align="center">
+<h6>Caso apareça tudo bangunçado pressionar F5!😅</h6>
+</div>
+
+<div align="center">
 <!--snake-->
-![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 
-(Caso apareça tudo bangunçado pressionar F5!😅)

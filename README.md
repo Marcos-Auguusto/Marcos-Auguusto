@@ -24,17 +24,6 @@
 <img align="top" src="https://github.com/anuraghazra/github-readme-stats" width="354"/>
 </picture>
 
-
-
-
-
-
- 
-
-
-
-
-##
-
+<!--snake-->
 ![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)
 

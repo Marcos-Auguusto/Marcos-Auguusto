@@ -19,5 +19,5 @@
 <!--snake-->
 ![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)
 
-##
-Caso apareça tudo bangunçado pressionar F5!😅
+
+(Caso apareça tudo bangunçado pressionar F5!😅)

@@ -1,8 +1,12 @@
 
-<div>
-<img  widht="47%" src="https://github-readme-stats.vercel.app/api?username=Marcos-Auguusto&show_icons=true&theme=react" /><br>
-<img  widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&layout=compact&theme=react"/><br>
-</div>                                          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Auguusto&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
+
+
 
 
 ##

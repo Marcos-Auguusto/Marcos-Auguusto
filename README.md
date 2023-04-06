@@ -1,5 +1,8 @@
+<div align="center">
+<h1>Seja bem-vindo! <img align="top" src="BIT - 1.png" width="50" height="50"> </h1>
+</div>
 
-<h2 align="center">Seja bem-vindo! <img align="right" src="BIT - 1.png" width="50" height="50"> <h2>
+
 
 		
 <div align="center">

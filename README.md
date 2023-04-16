@@ -12,7 +12,7 @@
 <img align="top" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&title_color=C3D1D9&text_color=7A8490&bg_color=0D1117&hide_border=true">
 </div>
 
-<div align="center"> <img align="top" src="PAC MAN.png" width="25" height="25"></h1> 🔹 0 🔹 0 🔹 1 🔹</div>
+<div align="center"> <img align="top" src="PAC MAN- BIT.png" width="25" height="25"></h1> 🔹 0 🔹 0 🔹 1 🔹</div>
  <div align="center">-----------------------------</div>
  
   ![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)

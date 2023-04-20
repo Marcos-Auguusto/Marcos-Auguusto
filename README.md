@@ -19,7 +19,9 @@
 <img src="django.png" width="120">
 </div><br>
 
-
+<div align="center">
+<img src="TESTE.png" width="120">
+</div>
 
 <div align="center">
  

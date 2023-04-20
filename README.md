@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="box-skills4.png" width="900">
+<img src="box-skills3.png" width="900">
 </div>
 
 <div align="center">

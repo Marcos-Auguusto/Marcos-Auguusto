@@ -9,16 +9,6 @@
   <img align="top" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Auguusto&title_color=C3D1D9&text_color=7A8490&bg_color=0D1117&hide_border=true">
 </div>
 
-##
-<br>
-
-<div align="center">
-<img src="python.png" width="120">
-<img src="html5.png" width="120">
-<img src="css.png" width="120">
-<img src="django.png" width="120">
-</div><br>
-
 <div align="center">
 <img src="box-skills.png" width="900">
 </div>

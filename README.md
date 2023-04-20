@@ -20,7 +20,7 @@
 </div><br>
 
 <div align="center">
-<!--<img src="TESTE.jpg" width="900">-->
+<img src="box-skills.png" width="900">
 </div>
 
 <div align="center">

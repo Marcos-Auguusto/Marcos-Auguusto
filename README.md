@@ -20,7 +20,7 @@
 </div><br>
 
 <div align="center">
-<img src="TESTE.png" width="120">
+<img src="TESTE.jpg" width="900">
 </div>
 
 <div align="center">

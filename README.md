@@ -10,13 +10,14 @@
 </div>
 
 ##
+<div align="center">🧮 Skills:</div>
 <br>
 
 <div align="center">
-  <img src="python.png" width="140">
-  <img src="html5.png" width="140">
-  <img src="css.png" width="140">
-  <img src="django.png" width="140">
+<img src="python.png" width="120">
+<img src="html5.png" width="120">
+<img src="css.png" width="120">
+<img src="django.png" width="120">
 </div>
 
 <div align="center">
@@ -24,6 +25,7 @@
   ![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 
 

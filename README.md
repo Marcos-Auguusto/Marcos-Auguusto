@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Olá, seja bem-vindo! <img align="top" src="BIT - 1.png" width="50" height="50"></h1><br>
+<h1>Olá, seja bem-vindo! <img align="top" src="person-bit.png" height="50"></h1><br>
 </div>
 
 <div align="center">

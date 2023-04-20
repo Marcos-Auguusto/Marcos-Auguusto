@@ -20,6 +20,7 @@
 <img src="django.png" width="120">
 </div>
 
+##
 <div align="center">
  
   ![Snake animation](https://github.com/Marcos-Auguusto/Marcos-Auguusto/blob/output/github-contribution-grid-snake.svg)
